@@ -1,2 +1,2 @@
 # mikepack
-my package
+this is package
