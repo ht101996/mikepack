@@ -1,2 +1,2 @@
 # mikepack
-this is package
+this is mike pack
